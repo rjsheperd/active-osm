@@ -1,0 +1,6 @@
+# OpenStreetMap formats
+*.osm.pbf
+*.o5m
+
+# Database dumps
+*.dump
