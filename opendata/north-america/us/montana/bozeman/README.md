@@ -4,6 +4,7 @@
 * [https://public-bozeman.opendata.arcgis.com/]
 
 ### Streets Data
+* Bicycle Facilities [https://public-bozeman.opendata.arcgis.com/datasets/bicycle-facilities]
 * Bicycle Level-of-Traffic-Stress (LTS) [https://public-bozeman.opendata.arcgis.com/datasets/bicycle-level-of-traffic-stress]
 * Neighborhoods Missing Sidewalks [https://public-bozeman.opendata.arcgis.com/datasets/neighborhoods-lacking-sidewalks]
 * Severe Crashes [https://public-bozeman.opendata.arcgis.com/datasets/severe-crash-locations]
