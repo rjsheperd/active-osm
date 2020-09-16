@@ -1,0 +1,25 @@
+{
+  "name": "active-osm",
+  "version": "1.0.0",
+  "description": "Produces maps of active-transportation networks from OSM data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "agsout": "1.0.4",
+    "osmtogeojson": "3.0.0-beta.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rjsheperd/active-osm"
+  },
+  "keywords": [
+    "OpenStreetMap"
+  ],
+  "author": "Richard \"RJ\" Sheperd",
+  "license": "MIT"
+}

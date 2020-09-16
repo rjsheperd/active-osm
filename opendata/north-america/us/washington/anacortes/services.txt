@@ -1,0 +1,2 @@
+# https://arcgiscoa.cityofanacortes.org/arcgiscoa/rest/services/Streets/WCRamps/FeatureServer/0|anacortes_ramps|1000
+https://arcgiscoa.cityofanacortes.org/arcgiscoa/rest/services/Streets/Sidewalks/FeatureServer/0|anacortes_sidewalks|1000
