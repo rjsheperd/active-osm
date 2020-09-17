@@ -5,16 +5,25 @@
 This repo is meant to help collate those disparate data sources (see `/opendata`), as well as provide tools to create relevant reports and maps.
 
 ## Contributing
-The best way to contribute is to help improve OpenStreetMap. Sign up for an account, and get mapping!
+**Improve OpenStreetMap**
+The best way to contribute is to help improve OpenStreetMap. [Sign up for an account](https://www.openstreetmap.org/user/new), and get mapping!
 
-If you are interested in contributing data sources for your town/city, create a new file using the `/opendata/<country>/<state/province>/<city/town>/README.md` format, and open a Pull Request.
+Interested in contributing data sources for your town/city?
+* Create a new file using the `/opendata/<continent>/<country>/<state/province>/<city/town>/README.md` format
+* Place any relevant links to active transportation data (e.g. sidewalks, curb ramps, transit stops)
+* Open a Pull Request.
 
 ## TODO
 - [ ] Missing Sidewalks Map
 - [ ] Missing Curb Ramps Map
 - [ ] Miles of Bike Lanes per Capita
 - [ ] Miles of Sidewalks per Capita
-- [ ] Parking Report
+- [ ] Bike/Paid Parking Report
+
+
+## Inspiration
+* WheelMap (wheelmap.org) - Global Wheelchair Accessiblity Map
+* AccessMap (accessmap.io) - Wheelchair Accessibility through Univ. of Washington (mostly Seattle Region)
 
 ## Contributors
 * RJ Sheperd
